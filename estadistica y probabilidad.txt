@@ -1,0 +1,248 @@
+Resumen
+1.
+¿Qué efecto tiene en la media la eliminación del 8 del conjunto de datos?
+
+8, 33, 42, 44, 46, 55
+La media aumenta en 6.
+
+2.
+Se saca una carta de una baraja de 52 cartas, ¿cuál es la probabilidad de sacar una reina o una carta negra?
+
+7/13
+
+3.
+Si dibujamos 6 puntos dentro de una circunferencia, ¿cuántas figuras de 4 lados podemos dibujar usando los puntos como vértices?
+
+15
+
+4.
+Hay 5 canicas verdes y 2 canicas rojas en una bolsa negra. Si se saca una canica, se registra el color y luego se regresa a la bolsa, ¿cuál es la probabilidad de que la canica roja se saque 3 veces seguidas?
+
+8/343
+
+5.
+¿Cuál es la mejor visualización para el ahorro de una cantidad fija a lo largo del tiempo si se quiere conocer el monto total?
+
+Gráfico de ojiva
+
+6.
+¿Cuál es la mejor visualización para comparar proporciones de un total?
+
+Gráfico de pastel (usar con precaución y no con muchas variables)
+
+7.
+¿En qué se diferencia una combinación de una permutación?
+
+En una permutación todos los elementos son distintos, mientras que en una combinación pueden haber elementos iguales.
+
+8.
+¿Por qué es importante entender de probabilidad al estudiar estadística?
+
+La probabilidad es útil para entender la aleatoriedad de los datos y la variabilidad de las muestras.
+
+9.
+¿Qué diferencia hay entre causalidad y correlación?
+
+La causalidad se refiere a una relación causa-efecto, mientras que la correlación se refiere a una asociación estadística entre dos variables.
+
+10.
+Tengo 4 bolas de helado: 1 de chocolate, 1 de fresa, 1 de vainilla y 1 de menta. Quiero comer solo 3 de las bolas.
+
+¿De cuántas maneras diferentes puedo comer 3 de las cucharadas si considero qué cucharadas me como y el orden en que me las como?
+
+Con una permutación, entonces sería P(4,3) = 24 maneras.
+
+11.X
+¿Qué software se utiliza comúnmente en la academia, específicamente en carreras de ciencias exactas?
+
+Excel
+R
+
+REPASAR CLASE
+12.
+La siguiente es una gráfica de dispersión que relaciona el índice de masa corporal con el precio de su póliza de seguros
+
+¿Qué tipo de relación puedes inferir a simple vista?
+
+Gráfica de dispersión
+Hay una correlación débil positiva de “a mayor índice de masa corporal, mayor coste de póliza”.
+
+13.X
+¿Cuál es la diferencia entre una curva de densidad y un polígono de frecuencia?
+
+Una curva de densidad es una línea suave que conecta los puntos medios de los intervalos de clase, mientras que un polígono de frecuencia es una línea que conecta los puntos de los extremos superiores de los intervalos de clase.
+
+Una curva de densidad muestra una distribución continua de datos, mientras que un polígono de frecuencia muestra una distribución discreta de datos.
+
+REPASAR CLASE
+14.
+¿Cuáles son las medidas de tendencia central?
+
+Mediana, media, moda.
+
+15.
+Calcula las medidas de tendencia central del siguiente conjunto de datos:
+
+(72, 26, 50, 54, 56, 21, 72, 42, 62, 35, 72, 72, 21, 44, 47, 21, 38)
+
+Media = 47.35, mediana = 47, moda = 72
+
+16.
+Si quiero preguntar género musical favorito por rango de edad, ¿qué tipo de tabla debo de utilizar para registrar mis datos?
+
+Tabla bidimensional
+
+17.
+A un grupo de estudiantes universitarios se les preguntó qué tipo de música escuchaban más seguido, los resultados están en el diagrama de Venn.
+
+¿Cuántos estudiantes fueron entrevistados?
+
+Diagrama de Venn
+91
+
+18.X
+Se lanza un dado de seis caras dos veces y se anotan ambos resultados. ¿Cuál es la probabilidad de que el producto de la cara de los dados sea 6?
+
+4/30
+5/36
+
+REPASAR CLASE
+19.
+Una empresa está analizando los resultados de una encuesta reciente sobre por qué las personas dejaron su empleo. Se obtuvieron 15 diferentes respuestas con diferentes proporciones. En general, ¿es una mejor opción un gráfico de barras o un gráfico circular para mostrar los datos? ¿Por qué?
+
+Un gráfico de barras es una mejor opción para mostrar los datos porque hay muchas categorías diferentes. Un gráfico circular puede abarrotarse cuando hay muchas categorías.
+
+20.
+¿Qué valores son representados en las líneas de la siguiente imagen?
+Gráfica
+
+La línea naranja es: moda. La línea rosa es: mediana. La linea azul es: media. Es una distribución: asimétrica positiva.
+
+21.
+¿Cuál box plot representa correctamente al siguiente conjunto?
+
+14, 32, 31, 31, 30, 17, 15
+
+image7.png
+
+
+///////////////////////
+
+1.
+Si dibujamos 6 puntos dentro de una circunferencia, ¿cuántas figuras de 4 lados podemos dibujar usando los puntos como vértices?
+
+15
+
+2.
+Hay 5 canicas verdes y 2 canicas rojas en una bolsa negra. Si se saca una canica, se registra el color y luego se regresa a la bolsa, ¿cuál es la probabilidad de que la canica roja se saque 3 veces seguidas?
+
+8/343
+
+3.
+¿Cuál es la mejor visualización para el ahorro de una cantidad fija a lo largo del tiempo si se quiere conocer el monto total?
+
+Gráfico de ojiva
+
+4.
+¿Cuál es la mejor visualización para comparar proporciones de un total?
+
+Gráfico de pastel (usar con precaución y no con muchas variables)
+
+5.
+¿En qué se diferencia una combinación de una permutación?
+
+En una permutación todos los elementos son distintos, mientras que en una combinación pueden haber elementos iguales.
+
+6.
+¿Por qué es importante entender de probabilidad al estudiar estadística?
+
+La probabilidad es útil para entender la aleatoriedad de los datos y la variabilidad de las muestras.
+
+7.
+¿Qué diferencia hay entre causalidad y correlación?
+
+La correlación implica una relación causa-efecto, mientras que la causalidad se refiere a una relación estadística entre dos variables.
+
+REPASAR CLASE
+8.
+Tengo 4 bolas de helado: 1 de chocolate, 1 de fresa, 1 de vainilla y 1 de menta. Quiero comer solo 3 de las bolas.
+
+¿De cuántas maneras diferentes puedo comer 3 de las cucharadas si considero qué cucharadas me como y el orden en que me las como?
+
+Con una permutación, entonces sería P(4,3) = 24 maneras.
+
+9.
+¿Qué software se utiliza comúnmente en la academia, específicamente en carreras de ciencias exactas?
+
+MATLAB
+
+10.
+¿Cuál es la diferencia entre una curva de densidad y un polígono de frecuencia?
+
+Una curva de densidad muestra la forma de la distribución de probabilidad de una variable aleatoria continua, mientras que un polígono de frecuencia muestra la distribución de frecuencia de una variable discreta o continua agrupada en intervalos de clase.
+
+11.
+¿Cuáles son las medidas de tendencia central?
+
+Mediana, media, moda.
+
+12.
+Calcula las medidas de tendencia central del siguiente conjunto de datos:
+
+(72, 26, 50, 54, 56, 21, 72, 42, 62, 35, 72, 72, 21, 44, 47, 21, 38)
+
+Media = 47.35, mediana = 47, moda = 72
+
+13.
+Obtén el resumen de 5 números del siguiente conjunto de datos:
+
+(72, 26, 50, 54, 56, 21, 72, 42, 62, 35, 72, 72, 21, 44, 47, 21, 38)
+min = 21, 1q =35, mediana = 47, 3q = 62, max = 72
+
+14.
+Si quiero preguntar género musical favorito por rango de edad, ¿qué tipo de tabla debo de utilizar para registrar mis datos?
+
+Tabla bidimensional
+
+15.
+A un grupo de estudiantes universitarios se les preguntó qué tipo de música escuchaban más seguido, los resultados están en el diagrama de Venn.
+
+¿Cuántos estudiantes fueron entrevistados?
+
+Diagrama de Venn
+91
+
+16.
+Se lanza un dado de seis caras dos veces y se anotan ambos resultados. ¿Cuál es la probabilidad de que el producto de la cara de los dados sea 6?
+
+1/9
+
+17.
+Una empresa está analizando los resultados de una encuesta reciente sobre por qué las personas dejaron su empleo. Se obtuvieron 15 diferentes respuestas con diferentes proporciones. En general, ¿es una mejor opción un gráfico de barras o un gráfico circular para mostrar los datos? ¿Por qué?
+
+Un gráfico de barras es una mejor opción para mostrar los datos porque hay muchas categorías diferentes. Un gráfico circular puede abarrotarse cuando hay muchas categorías.
+
+18.
+¿Qué valores son representados en las líneas de la siguiente imagen?
+Gráfica
+
+La línea naranja es: moda. La línea rosa es: mediana. La linea azul es: media. Es una distribución: asimétrica positiva.
+
+19.
+Tenemos dos monedas. Uno es justa y la otra está ponderada para caer en cruz 3/4 del tiempo. Sin saber qué moneda estamos eligiendo, elegimos una al azar, lanzamos la moneda y obtenemos cruz. ¿Cuál es la probabilidad de que lancemos la moneda sesgada?
+
+3/5
+
+20.
+Tenemos los siguientes datos:
+
+tabladatos-paiadinoinuib8d}.png
+¿Cuál es la probabilidad de que un estudiante esté en preparatoria o que sea de arquitectura?
+
+75/130
+
+REPASAR CLASE
+21.
+¿Cuál box plot representa correctamente al siguiente conjunto?
+
+14, 32, 31, 31, 30, 17, 15
